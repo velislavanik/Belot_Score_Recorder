@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topAndBottom">10dp</dimen>
+    <dimen name="lineHeight">1dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="paddingLeft">10dp</dimen>
+    <dimen name="paddingRight">70dp</dimen>
+    <dimen name="paddingRightEdit">60dp</dimen>
+    <dimen name="width">0dp</dimen>
+    <dimen name="marginButton">2dp</dimen>
+</resources>

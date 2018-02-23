@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"><i>Belot Score Recorder</i></string>
+    <string name="games">Games</string>
+    <string name="zero">0</string>
+    <string name="colon">:</string>
+    <string name="one">1</string>
+    <string name="teamAScores">Team A scores</string>
+    <string name="teamBScores">Team B scores</string>
+    <string name="zeroPlus">0+</string>
+    <string name="add">Add </string>
+    <string name="scoresFor"> scores for  </string>
+    <string name="teamA">team A</string>
+    <string name="teamB">team B</string>
+    <string name="delA">del last <b>A</b> score</string>
+    <string name="delB">del last <b>B</b> score</string>
+    <string name="gameOver">Game Over</string>
+    <string name="reset">Reset</string>
+</resources>
